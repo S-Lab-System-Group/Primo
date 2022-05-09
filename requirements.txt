@@ -1,0 +1,8 @@
+interpret==0.2.7
+interpret_core==0.2.7
+matplotlib==3.4.2
+numpy==1.19.5
+prettytable==3.0.0
+pydotplus==2.0.2
+scikit_learn==1.0.2
+scikit_optimize==0.9.0

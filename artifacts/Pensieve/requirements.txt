@@ -1,0 +1,7 @@
+matplotlib==3.4.2
+numpy==1.19.5
+pydotplus==2.0.2
+scikit_learn==1.0.2
+six==1.16.0
+tensorflow==1.15.0
+tflearn==0.3.2

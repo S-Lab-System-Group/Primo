@@ -1,0 +1,20 @@
+Iteration 0/100
+Training student with 200000 points
+Train accuracy: 1.0
+Test accuracy: 1.0
+Student reward: 18.778146906901146
+Iteration 1/100
+Training student with 200000 points
+Train accuracy: 0.99893125
+Test accuracy: 0.9991
+Student reward: 33.309847364871885
+Iteration 2/100
+Training student with 200000 points
+Iteration 0/1
+Training student with 200000 points
+Train accuracy: 1.0
+Test accuracy: 1.0
+Student reward: 18.778146906901146
+Initial policy count: 1
+Final reward: 20.78381401901681
+Number of nodes: 75
