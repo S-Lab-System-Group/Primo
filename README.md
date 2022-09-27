@@ -9,7 +9,7 @@
 ```
 # Primo
 
-Primo is a unified framework that assists developers to design practical learning-augmented systems with interpretable models. To learn more about how Primo works, please refer our [ATC '22 paper](TODO) ***"Primo: Practical Learning-Augmented Systems with Interpretable Models"***.
+Primo is a unified framework that assists developers to design practical learning-augmented systems with interpretable models. To learn more about how Primo works, please refer our [ATC '22 paper](https://www.usenix.org/conference/atc22/presentation/hu).
 
 
 ## Installation
