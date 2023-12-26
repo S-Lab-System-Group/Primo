@@ -24,7 +24,7 @@ All baseline algorithms keep the same configuration as Clara's original setting.
 a. (**Figure 9**) Obtain baseline algorithm results.
 ```bash
 cd MS_scale_out/baselines
-sh clara_ms_baseline.sh
+sh clara_ms_baselines.sh
 cd ..
 ```
 
@@ -36,7 +36,7 @@ b.  Open `Primo_Clara_MS.ipynb` and run all cells within the notebook to evaluat
 a. (**Figure 10**) Obtain baseline algorithm results.
 ```bash
 cd ../AI_algo_id/baselines
-sh clara_ai_baseline.sh
+sh clara_ai_baselines.sh
 cd ..
 ```
 
@@ -47,7 +47,7 @@ b.  Open `Primo_Clara_AI.ipynb` and run all cells within the notebook to evaluat
 a. (**Figure 11**) Obtain baseline algorithm results.
 ```bash
 cd ../CP_compute_prediction/baselines
-sh clara_cp_baseline.sh
+sh clara_cp_baselines.sh
 cd ..
 ```
 
